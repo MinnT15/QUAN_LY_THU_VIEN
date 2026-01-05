@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1767545251 source:d:\course\embedded c\bt\quanlythuvien\main.c
+	"Book/book.h"
+	"Management/management.h"
+	"User/user.h"
+	"Utils/utils.h"
+
+1767545251 source:d:\course\embedded c\bt\quanlythuvien\book\book.c
+	"book.h"
+
+1767545251 d:\course\embedded c\bt\quanlythuvien\book\book.h
+	"../Utils/utils.h"
+
+1767545251 d:\course\embedded c\bt\quanlythuvien\utils\utils.h
+	<ctype.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1767545251 source:d:\course\embedded c\bt\quanlythuvien\management\management.c
+	"management.h"
+
+1767545251 d:\course\embedded c\bt\quanlythuvien\management\management.h
+	"../Book/book.h"
+	"../User/user.h"
+	"../Utils/utils.h"
+
+1767545251 d:\course\embedded c\bt\quanlythuvien\user\user.h
+	"../Utils/utils.h"
+
+1767545251 source:d:\course\embedded c\bt\quanlythuvien\user\user.c
+	"user.h"
+
+1767545453 source:d:\course\embedded c\bt\quanlythuvien\utils\utils.c
+	"utils.h"
+
