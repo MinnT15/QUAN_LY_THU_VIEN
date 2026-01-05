@@ -1,9 +1,0 @@
-6 7 2 3
-BOOK|1|Clean Code|Robert C. Martin|Programming|0|-1
-BOOK|2|Design Patterns|Gang of Four|Programming|0|-1
-BOOK|3|The Pragmatic Programmer|Andrew Hunt|Programming|0|-1
-BOOK|4|hah|ss|d|0|-1
-BOOK|5|dac nhan tam|tri|nam|0|-1
-BOOK|6|11|1|1|0|-1
-USER|1|John Doe|0
-USER|2|Jane Smith|0
